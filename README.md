@@ -13,7 +13,7 @@ String Selection Sort
 
 ### Part 2 - Selection Sort Search B
 Binary String Search
-![Selection Search](Selection_Sort_Search.png)
+![Selection Search](Selection_Sort_SearchB.png)
 
 
 
